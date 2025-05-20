@@ -1,0 +1,3 @@
+thresholds:
+  temperature: 80
+  vibration: 0.05
