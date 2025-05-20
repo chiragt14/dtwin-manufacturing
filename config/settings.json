@@ -1,0 +1,5 @@
+{
+  "api_port": 5000,
+  "plant_name": "SmartFactoryLine1",
+  "sync_interval_sec": 5
+}
